@@ -92,3 +92,552 @@
 2025-07-20 16:36:55,823 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
 2025-07-20 16:37:57,273 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
 2025-07-20 16:38:59,456 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:39:59,913 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:40:11,612 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:11,613 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:40:13,476 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:13,477 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:40:16,650 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:16,652 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:40:21,651 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:21,652 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:40:29,376 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:29,378 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:40:34,377 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:34,379 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:40:39,375 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:39,376 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:40:44,373 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:44,374 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:40:49,373 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:49,375 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:40:54,376 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:40:54,378 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:02,077 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:41:02,102 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:02,103 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:07,102 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:07,104 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:12,102 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:12,103 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:17,102 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:17,104 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:22,103 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:22,104 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:27,101 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:27,103 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:34,831 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:34,832 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:39,832 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:39,833 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:44,833 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:44,834 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:49,831 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:49,832 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:54,832 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:54,834 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:41:59,832 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:41:59,834 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:07,529 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:42:07,557 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:07,559 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:12,559 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:12,561 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:17,561 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:17,562 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:22,555 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:22,557 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:27,554 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:27,555 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:32,555 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:32,556 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:38,711 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:38,713 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:43,712 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:43,713 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:48,712 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:48,714 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:53,712 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:53,713 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:42:58,711 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:42:58,712 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:03,711 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:03,712 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:09,664 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:43:09,696 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:09,697 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:14,693 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:14,694 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:19,692 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:19,694 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:24,692 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:24,693 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:29,690 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:29,692 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:34,691 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:34,692 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:40,487 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:40,489 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:45,489 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:45,491 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:50,489 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:50,490 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:43:55,488 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:43:55,490 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:00,488 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:00,489 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:05,486 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:05,487 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:11,072 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:44:11,097 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:11,098 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:16,099 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:16,100 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:21,099 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:21,100 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:26,099 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:26,100 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:31,099 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:31,100 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:36,098 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:36,099 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:43,824 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:43,826 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:48,825 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:48,826 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:53,825 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:53,826 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:44:58,827 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 16:44:58,828 - freqtrade.freqtradebot - WARNING - Unable to create trade for XTZ/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 16:45:14,326 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:46:34,796 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:47:35,751 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:48:36,338 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:49:40,201 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:50:44,315 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:51:44,767 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:52:46,085 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:53:48,127 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:54:48,583 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:55:52,049 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:56:55,314 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:57:57,313 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:58:58,588 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 16:59:10,287 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['ETH/USDT:USDT', 'BTC/USDT:USDT', 'SOL/USDT:USDT', 'XRP/USDT:USDT', 'DOGE/USDT:USDT', 'XTZ/USDT:USDT', '1000PEPE/USDT:USDT', 'ENA/USDT:USDT', 'CFX/USDT:USDT', 'LTC/USDT:USDT', 'SUI/USDT:USDT', 'ADA/USDT:USDT', 'PUMP/USDT:USDT', 'WIF/USDT:USDT', 'LINK/USDT:USDT', 'FARTCOIN/USDT:USDT', '1000BONK/USDT:USDT', 'AVAX/USDT:USDT', 'TRUMP/USDT:USDT', 'ETC/USDT:USDT']
+2025-07-20 17:00:03,726 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:01:02,098 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 17:01:09,789 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:02:13,398 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:03:14,623 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:04:16,577 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:05:19,955 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:06:25,193 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:07:28,413 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:08:30,321 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:09:33,730 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:10:37,054 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:11:42,510 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:12:47,959 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:13:49,094 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:14:50,957 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:15:55,001 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:17:00,458 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:18:05,913 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:19:09,454 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:20:12,648 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:21:14,463 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:22:19,920 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:23:25,378 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:24:29,256 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:25:31,645 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:26:32,266 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:27:37,418 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:28:42,870 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:29:46,366 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:31:02,892 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:31:03,554 - VolumePairList - INFO - Pair BNB/USDT:USDT in your blacklist. Removing it from whitelist...
+2025-07-20 17:31:03,567 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['ETH/USDT:USDT', 'BTC/USDT:USDT', 'SOL/USDT:USDT', 'XRP/USDT:USDT', 'DOGE/USDT:USDT', 'XTZ/USDT:USDT', '1000PEPE/USDT:USDT', 'CFX/USDT:USDT', 'ENA/USDT:USDT', 'LTC/USDT:USDT', 'SUI/USDT:USDT', 'ADA/USDT:USDT', 'WIF/USDT:USDT', 'PUMP/USDT:USDT', 'LINK/USDT:USDT', 'FARTCOIN/USDT:USDT', '1000BONK/USDT:USDT', 'AVAX/USDT:USDT', 'TRUMP/USDT:USDT', 'ETC/USDT:USDT']
+2025-07-20 17:31:03,601 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 17:32:03,658 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:33:04,111 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:34:06,855 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:35:11,655 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:36:13,336 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:37:13,790 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:38:14,248 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:39:14,691 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:40:28,297 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:41:29,929 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:42:33,568 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:43:34,021 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:44:34,479 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:45:50,464 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:46:51,168 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:47:54,417 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:48:54,870 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:49:55,327 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:50:59,992 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:52:01,536 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:53:03,080 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:54:03,538 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:55:29,130 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:56:30,154 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:57:31,658 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:58:32,683 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 17:59:34,787 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:00:39,325 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:01:05,179 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:01:40,776 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:02:42,963 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:02:43,616 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['ETH/USDT:USDT', 'BTC/USDT:USDT', 'SOL/USDT:USDT', 'XRP/USDT:USDT', 'DOGE/USDT:USDT', 'XTZ/USDT:USDT', 'CFX/USDT:USDT', '1000PEPE/USDT:USDT', 'LTC/USDT:USDT', 'ENA/USDT:USDT', 'SUI/USDT:USDT', 'ADA/USDT:USDT', 'WIF/USDT:USDT', 'PUMP/USDT:USDT', 'LINK/USDT:USDT', 'FARTCOIN/USDT:USDT', '1000BONK/USDT:USDT', 'AVAX/USDT:USDT', 'TRUMP/USDT:USDT', 'ETC/USDT:USDT']
+2025-07-20 18:03:46,502 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:04:46,957 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:05:14,322 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:14,323 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:14,327 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:14,328 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:14,364 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:14,366 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:14,370 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:14,371 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:19,361 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:19,363 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:19,367 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:19,368 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:24,362 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:24,364 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:24,368 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:24,369 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:29,362 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:29,363 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:29,367 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:29,369 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:37,089 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:37,090 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:37,094 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:37,095 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:42,089 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:42,091 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:42,095 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:42,096 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:47,061 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:05:47,090 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:47,091 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:47,095 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:47,096 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:52,102 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:52,103 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:52,107 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:52,108 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:57,091 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:57,092 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:05:57,096 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:05:57,097 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:02,090 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:02,091 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:02,095 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:02,096 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:09,817 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:09,818 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:09,823 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:09,824 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:14,816 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:14,818 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:14,822 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:14,823 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:19,816 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:19,818 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:19,822 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:19,823 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:24,817 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:24,819 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:24,823 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:24,824 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:29,814 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:29,815 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:29,819 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:29,821 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:34,814 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:34,816 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:34,820 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:34,821 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:40,790 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:40,791 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:40,796 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:40,797 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:45,790 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:45,792 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:45,796 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:45,798 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:50,759 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:06:50,790 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:50,792 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:50,796 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:50,797 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:55,791 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:55,793 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:06:55,797 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:06:55,798 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:00,791 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:00,793 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:00,797 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:00,798 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:05,789 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:05,790 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:05,794 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:05,795 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:11,588 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:11,589 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:11,594 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:11,595 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:16,588 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:16,589 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:16,594 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:16,595 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:21,587 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:21,589 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:21,594 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:21,595 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:26,593 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:26,594 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:26,599 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:26,600 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:31,588 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:31,589 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:31,594 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:31,595 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:36,586 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:36,588 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:36,592 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:36,593 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:14,932 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:14,933 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:14,938 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:14,939 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:19,932 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:19,934 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:19,938 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:19,939 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:24,932 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:24,934 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:24,938 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:24,940 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:57,174 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:07:57,205 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:57,206 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:07:57,211 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:07:57,212 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:02,205 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:02,207 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:02,211 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:02,212 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:07,205 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:07,207 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:07,211 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:07,212 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:12,206 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:12,208 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:12,212 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:12,214 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:17,210 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:17,212 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:17,216 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:17,217 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:22,206 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:22,208 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:22,212 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:22,214 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:27,206 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:27,207 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:27,212 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:27,213 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:32,204 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:32,205 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:32,209 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:32,210 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:37,203 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:37,205 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:37,209 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:37,210 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:43,171 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:43,173 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:43,177 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:43,178 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:48,171 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:48,173 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:48,177 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:48,178 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:53,171 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:53,172 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:53,176 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:53,177 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:58,143 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:08:58,172 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:58,173 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:08:58,177 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:08:58,179 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:03,173 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:03,174 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:03,178 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:03,179 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:08,172 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:08,174 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:08,178 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:08,179 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:15,901 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:15,902 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:15,906 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:15,907 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:20,904 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:20,905 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:20,909 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:20,910 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:25,901 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:25,902 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:25,907 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:25,908 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:30,901 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:30,902 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:30,907 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:30,908 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:35,902 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:35,903 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:35,907 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:35,908 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:40,901 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:40,903 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:40,907 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:40,908 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:48,625 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:48,626 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:48,631 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:48,632 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:53,628 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:53,630 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:53,634 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:53,635 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:58,598 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:09:58,626 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:58,627 - freqtrade.freqtradebot - WARNING - Unable to create trade for SUI/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:09:58,632 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:09:58,633 - freqtrade.freqtradebot - WARNING - Unable to create trade for PUMP/USDT:USDT: Available balance (990.0 USDT) is lower than stake amount (1000 USDT)
+2025-07-20 18:11:02,076 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:12:15,385 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:13:16,339 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:14:17,700 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:15:19,357 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:16:19,811 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:17:23,466 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:18:24,783 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:19:26,826 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:20:29,330 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:21:29,782 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:22:33,050 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:23:35,049 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:24:36,321 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:25:41,723 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:26:47,178 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:27:49,901 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:28:51,127 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:29:53,079 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:30:56,583 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:31:06,622 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 18:31:59,328 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:33:00,506 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:34:02,416 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:34:28,021 - VolumePairList - INFO - Pair BNB/USDT:USDT in your blacklist. Removing it from whitelist...
+2025-07-20 18:34:28,032 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['ETH/USDT:USDT', 'BTC/USDT:USDT', 'SOL/USDT:USDT', 'XRP/USDT:USDT', 'DOGE/USDT:USDT', 'CFX/USDT:USDT', 'XTZ/USDT:USDT', '1000PEPE/USDT:USDT', 'LTC/USDT:USDT', 'ENA/USDT:USDT', 'SUI/USDT:USDT', 'ADA/USDT:USDT', 'WIF/USDT:USDT', 'PUMP/USDT:USDT', 'LINK/USDT:USDT', 'FARTCOIN/USDT:USDT', '1000BONK/USDT:USDT', 'AVAX/USDT:USDT', 'TRUMP/USDT:USDT', 'ETC/USDT:USDT']
+2025-07-20 18:35:14,277 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:36:17,015 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:37:19,609 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:38:21,471 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:39:22,607 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:40:24,313 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:41:27,543 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:42:39,765 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:43:40,944 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:44:42,763 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:45:47,056 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:46:50,571 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:47:52,343 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:48:54,114 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:49:57,458 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:51:02,063 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:52:03,787 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:53:05,518 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:54:07,242 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:55:13,310 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:56:17,146 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:57:18,826 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:58:20,508 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 18:59:22,186 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:00:24,344 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:01:05,293 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 19:01:25,978 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:02:27,615 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:03:29,250 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:04:29,708 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:05:32,361 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:05:31,295 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['ETH/USDT:USDT', 'BTC/USDT:USDT', 'SOL/USDT:USDT', 'DOGE/USDT:USDT', 'XRP/USDT:USDT', 'CFX/USDT:USDT', 'XTZ/USDT:USDT', '1000PEPE/USDT:USDT', 'LTC/USDT:USDT', 'ENA/USDT:USDT', 'SUI/USDT:USDT', 'ADA/USDT:USDT', 'WIF/USDT:USDT', 'PUMP/USDT:USDT', 'LINK/USDT:USDT', 'FARTCOIN/USDT:USDT', '1000BONK/USDT:USDT', 'AVAX/USDT:USDT', 'TRUMP/USDT:USDT', 'ETC/USDT:USDT']
+2025-07-20 19:06:35,629 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:07:37,221 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:08:40,473 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:09:40,922 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:10:43,116 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:11:44,666 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:12:46,204 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:13:51,661 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:14:57,108 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:15:58,653 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:17:00,154 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:18:01,650 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:19:07,108 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:20:11,901 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:21:14,079 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:22:15,533 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:23:19,444 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:24:24,892 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:25:27,599 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:26:29,008 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:27:31,143 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:28:34,659 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:29:40,107 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:30:42,389 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:31:02,425 - freqtrade.wallets - INFO - Wallets synced.
+2025-07-20 19:31:44,481 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:32:45,846 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:33:51,301 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:34:54,584 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:35:58,635 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:36:59,955 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:37:31,681 - VolumePairList - INFO - Pair BNB/USDT:USDT in your blacklist. Removing it from whitelist...
+2025-07-20 19:37:31,692 - freqtrade.plugins.pairlistmanager - INFO - Whitelist with 20 pairs: ['ETH/USDT:USDT', 'BTC/USDT:USDT', 'SOL/USDT:USDT', 'DOGE/USDT:USDT', 'XRP/USDT:USDT', 'CFX/USDT:USDT', '1000PEPE/USDT:USDT', 'XTZ/USDT:USDT', 'ENA/USDT:USDT', 'LTC/USDT:USDT', 'SUI/USDT:USDT', 'ADA/USDT:USDT', 'WIF/USDT:USDT', 'PUMP/USDT:USDT', 'LINK/USDT:USDT', 'FARTCOIN/USDT:USDT', '1000BONK/USDT:USDT', 'TRUMP/USDT:USDT', 'AVAX/USDT:USDT', 'ETC/USDT:USDT']
+2025-07-20 19:38:03,797 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:39:09,243 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:40:12,254 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:41:13,526 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:42:15,530 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:43:18,975 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:44:22,590 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:45:27,175 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:46:29,131 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:47:32,560 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:48:33,015 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:49:34,189 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:50:38,587 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:51:39,768 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:52:40,220 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:53:43,417 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:54:45,284 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:55:47,735 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:56:49,591 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:57:55,044 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:58:56,865 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 19:59:58,680 - freqtrade.worker - INFO - Bot heartbeat. PID=1, version='2025.6', state='RUNNING'
+2025-07-20 20:00:18,741 - freqtrade.rpc.api_server.ws.channel - INFO - Connected to channel - WebSocketChannel(d769fe67, ('172.18.0.1', 46714))
+2025-07-20 20:00:18,767 - freqtrade.rpc.api_server.ws.channel - INFO - Connected to channel - WebSocketChannel(a3e42bcc, ('172.18.0.1', 46730))
+2025-07-20 20:00:18,780 - freqtrade.rpc.api_server.ws.channel - INFO - Connected to channel - WebSocketChannel(095d7468, ('172.18.0.1', 46732))
+2025-07-20 20:00:22,744 - freqtrade.rpc.api_server.ws.channel - INFO - Disconnected from channel - WebSocketChannel(a3e42bcc, ('172.18.0.1', 46730))
+2025-07-20 20:00:22,745 - freqtrade.rpc.api_server.ws.channel - INFO - Disconnected from channel - WebSocketChannel(d769fe67, ('172.18.0.1', 46714))
+2025-07-20 20:00:22,745 - freqtrade.rpc.api_server.ws.channel - INFO - Disconnected from channel - WebSocketChannel(095d7468, ('172.18.0.1', 46732))
+2025-07-20 20:00:24,190 - freqtrade.rpc.api_server.ws.channel - INFO - Disconnected from channel - WebSocketChannel(87576793, ('172.18.0.1', 34008))

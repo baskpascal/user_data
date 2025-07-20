@@ -1,0 +1,15 @@
+*
+
+
+
+
+# --- EXCEPTIONS ---
+# Do not ignore the .gitignore file itself
+!/.gitignore
+
+# Do not ignore the main configuration file
+!/config.json
+
+# Do not ignore the strategies folder and everything inside it
+!/strategies/
+!/strategies/**
